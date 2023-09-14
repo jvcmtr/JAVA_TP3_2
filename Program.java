@@ -35,7 +35,7 @@ public class Program{
         System.out.println("\n encerrando o programa ... \n\n");
 
 
-
+        /*
         Long a = Test("A");
         System.out.println();
         Long b = Test("B");
@@ -43,7 +43,7 @@ public class Program{
         System.out.println("B is better : \t" + (a>b));
         System.out.println("Melhoria : \t" + (a/b)*100 + "%");
         System.out.println("Diferenca: \t" + (a-b));
-    
+        */
     }
 
     static Long Test(String param){
